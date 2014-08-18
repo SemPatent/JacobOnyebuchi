@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7668ad7-2ece-4eb3-9540-52f825aed0da" name="Default" comment="" />
+    <ignored path="www.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="www" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="1085" selection-end="1085" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="935">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="query.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/query.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="87" column="28" selection-start="2567" selection-end="2567" vertical-scroll-proportion="-12.346154" vertical-offset="1158" max-vertical-offset="1615">
+              <folding>
+                <marker date="1408388401362" expanded="true" signature="1033:1233" placeholder="SELECT Abat,..abat..." />
+                <marker date="1408388401362" expanded="true" signature="1790:1895" placeholder="SELECT Ballo..ballottine..." />
+                <marker date="1408388401362" expanded="true" signature="2156:2302" placeholder="SELECT Capit..capitalization..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="managefantastic.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/managefantastic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="12" selection-start="0" selection-end="5431" vertical-scroll-proportion="-6.8076925" vertical-offset="214" max-vertical-offset="2278">
+              <folding>
+                <marker date="1408223874074" expanded="true" signature="763:939" placeholder="SELECT Fanta..." />
+                <marker date="1408223874074" expanded="false" signature="2870:2881" placeholder="..." />
+                <marker date="1408223874074" expanded="false" signature="2974:2985" placeholder="..." />
+                <marker date="1408223874074" expanded="false" signature="3083:3094" placeholder="..." />
+                <marker date="1408223874074" expanded="false" signature="3192:3203" placeholder="..." />
+                <marker date="1408223874074" expanded="false" signature="3301:3312" placeholder="..." />
+                <marker date="1408223874074" expanded="false" signature="3410:3421" placeholder="..." />
+                <marker date="1408223874074" expanded="false" signature="3519:3530" placeholder="..." />
+                <marker date="1408223874074" expanded="false" signature="3628:3639" placeholder="..." />
+                <marker date="1408223874074" expanded="false" signature="3737:3748" placeholder="..." />
+                <marker date="1408223874074" expanded="false" signature="3846:3857" placeholder="..." />
+                <marker date="1408223874074" expanded="false" signature="4370:4381" placeholder="..." />
+                <marker date="1408223874074" expanded="false" signature="4504:4515" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manageabat.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manageabat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="0" selection-end="5688" vertical-scroll-proportion="0.36761487" vertical-offset="87" max-vertical-offset="2227">
+              <folding>
+                <marker date="1408378624902" expanded="true" signature="687:861" placeholder="SELECT Abat,..." />
+                <marker date="1408378624902" expanded="false" signature="2768:2779" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="2867:2878" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="2971:2982" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="3075:3086" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="3179:3190" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="3283:3294" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="3387:3398" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="3491:3502" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="3595:3606" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="3699:3710" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="3803:3814" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="3908:3919" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="4013:4024" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="4118:4129" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="4633:4644" placeholder="..." />
+                <marker date="1408378624902" expanded="false" signature="4767:4778" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adddéforestation.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adddéforestation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="30" selection-start="664" selection-end="676" vertical-scroll-proportion="21.76923" vertical-offset="1008" max-vertical-offset="1700">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adddéforestationaction.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adddéforestationaction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="0" selection-start="1233" selection-end="1233" vertical-scroll-proportion="-13.730769" vertical-offset="306" max-vertical-offset="833">
+              <folding>
+                <marker date="1408387503619" expanded="true" signature="757:912" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deldéforestation.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deldéforestation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="37" selection-start="769" selection-end="781" vertical-scroll-proportion="-10.230769" vertical-offset="193" max-vertical-offset="663">
+              <folding>
+                <marker date="1408387503755" expanded="true" signature="531:578" placeholder="DELETE FROM ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editdéforestationaction.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/editdéforestationaction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="24" selection-start="210" selection-end="210" vertical-scroll-proportion="-3.5384614" vertical-offset="44" max-vertical-offset="748">
+              <folding>
+                <marker date="1408388206263" expanded="true" signature="698:862" placeholder="UPDATE $tbl_..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="managedéforestation.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/managedéforestation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="100" selection-start="3646" selection-end="3646" vertical-scroll-proportion="4.0" vertical-offset="1583" max-vertical-offset="2040">
+              <folding>
+                <marker date="1408387890347" expanded="true" signature="692:767" placeholder="SELECT Défor..." />
+                <marker date="1408387890347" expanded="false" signature="2720:2731" placeholder="..." />
+                <marker date="1408387890347" expanded="false" signature="2828:2839" placeholder="..." />
+                <marker date="1408387890347" expanded="false" signature="2941:2952" placeholder="..." />
+                <marker date="1408387890347" expanded="false" signature="3473:3484" placeholder="..." />
+                <marker date="1408387890347" expanded="false" signature="3607:3618" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editdéforestation.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/editdéforestation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="89" column="112" selection-start="3457" selection-end="3469" vertical-scroll-proportion="-55.5" vertical-offset="19" max-vertical-offset="2159">
+              <folding>
+                <marker date="1408387503670" expanded="true" signature="631:680" placeholder="SELECT * FRO..$tbl_name WHERE..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/addconnectaction.php" />
+        <option value="$PROJECT_DIR$/delconnect.php" />
+        <option value="$PROJECT_DIR$/editconnect.php" />
+        <option value="$PROJECT_DIR$/editconnectaction.php" />
+        <option value="$PROJECT_DIR$/manageconnect.php" />
+        <option value="$PROJECT_DIR$/adddedicate.php" />
+        <option value="$PROJECT_DIR$/adddedicateaction.php" />
+        <option value="$PROJECT_DIR$/deldedicate.php" />
+        <option value="$PROJECT_DIR$/editdedicate.php" />
+        <option value="$PROJECT_DIR$/editdedicateaction.php" />
+        <option value="$PROJECT_DIR$/managededicate.php" />
+        <option value="$PROJECT_DIR$/addearth.php" />
+        <option value="$PROJECT_DIR$/delearth.php" />
+        <option value="$PROJECT_DIR$/editearth.php" />
+        <option value="$PROJECT_DIR$/editearthaction.php" />
+        <option value="$PROJECT_DIR$/manageearth.php" />
+        <option value="$PROJECT_DIR$/addfantastic.php" />
+        <option value="$PROJECT_DIR$/addfantasticaction.php" />
+        <option value="$PROJECT_DIR$/delfantastic.php" />
+        <option value="$PROJECT_DIR$/editfantastic.php" />
+        <option value="$PROJECT_DIR$/editfantasticaction.php" />
+        <option value="$PROJECT_DIR$/managefantastic.php" />
+        <option value="$PROJECT_DIR$/addgrasp.php" />
+        <option value="$PROJECT_DIR$/addgraspaction.php" />
+        <option value="$PROJECT_DIR$/delgrasp.php" />
+        <option value="$PROJECT_DIR$/editgrasp.php" />
+        <option value="$PROJECT_DIR$/editgraspaction.php" />
+        <option value="$PROJECT_DIR$/managegrasp.php" />
+        <option value="$PROJECT_DIR$/addearthaction.php" />
+        <option value="$PROJECT_DIR$/addabat.php" />
+        <option value="$PROJECT_DIR$/addabataction.php" />
+        <option value="$PROJECT_DIR$/manageabat.php" />
+        <option value="$PROJECT_DIR$/addballottine.php" />
+        <option value="$PROJECT_DIR$/addballottineaction.php" />
+        <option value="$PROJECT_DIR$/manageballottine.php" />
+        <option value="$PROJECT_DIR$/delballottine.php" />
+        <option value="$PROJECT_DIR$/editballottine.php" />
+        <option value="$PROJECT_DIR$/addcapitalization.php" />
+        <option value="$PROJECT_DIR$/addcapitalizationaction.php" />
+        <option value="$PROJECT_DIR$/delcapitalization.php" />
+        <option value="$PROJECT_DIR$/editcapitalization.php" />
+        <option value="$PROJECT_DIR$/editcapitalizationaction.php" />
+        <option value="$PROJECT_DIR$/managecapitalization.php" />
+        <option value="$PROJECT_DIR$/adddéforestation.php" />
+        <option value="$PROJECT_DIR$/adddéforestationaction.php" />
+        <option value="$PROJECT_DIR$/deldéforestation.php" />
+        <option value="$PROJECT_DIR$/editdéforestation.php" />
+        <option value="$PROJECT_DIR$/managedéforestation.php" />
+        <option value="$PROJECT_DIR$/editdéforestationaction.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/query.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="699" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JacobpracticalFrench" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RunManager" selected="PHP Script.home.php">
+    <configuration default="false" name="search.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/search.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="home.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/home.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="false" name="home.php" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" uri="http://localhost:63342/www/home.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.home.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.search.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.home.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.home.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.search.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7668ad7-2ece-4eb3-9540-52f825aed0da" name="Default" comment="" />
+      <created>1400943062376</created>
+      <updated>1400943062376</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="699" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902032" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902032" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27221325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.115248226" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.038817007" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/editabat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="128" column="0" selection-start="0" selection-end="7072" vertical-scroll-proportion="-5.230769" vertical-offset="1989" max-vertical-offset="2635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editabataction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="30" selection-start="0" selection-end="1612" vertical-scroll-proportion="-6.076923" vertical-offset="420" max-vertical-offset="901" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delearth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="54" selection-start="936" selection-end="936" vertical-scroll-proportion="0.6004273" vertical-offset="280" max-vertical-offset="748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editearth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="163" selection-start="6512" selection-end="6512" vertical-scroll-proportion="2.7692308" vertical-offset="2265" max-vertical-offset="2720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editearthaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="53" selection-start="1542" selection-end="1542" vertical-scroll-proportion="-10.307693" vertical-offset="514" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addfantastic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="167" selection-start="5597" selection-end="5597" vertical-scroll-proportion="3.4230769" vertical-offset="1755" max-vertical-offset="2210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addfantasticaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="60" selection-start="1692" selection-end="1692" vertical-scroll-proportion="-9.653846" vertical-offset="531" max-vertical-offset="986" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delfantastic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="62" selection-start="962" selection-end="962" vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editfantastic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="167" selection-start="6645" selection-end="6645" vertical-scroll-proportion="3.4230769" vertical-offset="2248" max-vertical-offset="2703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editfantasticaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="34" selection-start="1711" selection-end="1711" vertical-scroll-proportion="-12.269231" vertical-offset="463" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addgraspaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="56" selection-start="1587" selection-end="1587" vertical-scroll-proportion="-10.307693" vertical-offset="412" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delgrasp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="35" selection-start="918" selection-end="918" vertical-scroll-proportion="-10.807693" vertical-offset="195" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editgrasp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="0" selection-start="6781" selection-end="6781" vertical-scroll-proportion="1.3076923" vertical-offset="2278" max-vertical-offset="2754" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/managegrasp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="25" selection-start="5018" selection-end="5018" vertical-scroll-proportion="-3.9230769" vertical-offset="1649" max-vertical-offset="2125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addgrasp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="163" selection-start="5916" selection-end="5916" vertical-scroll-proportion="2.6153846" vertical-offset="1751" max-vertical-offset="2227" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asideeq.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editgraspaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="57" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="38" selection-start="1646" selection-end="1646" vertical-scroll-proportion="-13.6" vertical-offset="6987" max-vertical-offset="8415" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="628" max-vertical-offset="1122">
+          <folding>
+            <marker date="1400981877685" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$tbl_name WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageearth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="30" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2159">
+          <folding>
+            <marker date="1408212568053" expanded="true" signature="-1:-1" placeholder="SELECT Earth..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408212568053" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="17" selection-start="2608" selection-end="2608" vertical-scroll-proportion="-7.8461537" vertical-offset="1122" max-vertical-offset="3400">
+          <folding>
+            <marker date="1375989274582" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$tbl_name_account WHERE..." />
+            <marker date="1375989274582" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$tbl_name_account WHERE..." />
+            <marker date="1375989274582" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$tbl_name_tickets WHERE..." />
+            <marker date="1375989274582" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1375989274582" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$tbl_name_account WHERE..." />
+            <marker date="1375989274582" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1375989274582" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$tbl_name_record WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="50" selection-start="468" selection-end="468" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="1411">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addearthaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="156" selection-end="156" vertical-scroll-proportion="-0.2603939" vertical-offset="204" max-vertical-offset="867">
+          <folding>
+            <marker date="1408355515928" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addearth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="163" selection-start="5602" selection-end="5602" vertical-scroll-proportion="-0.111597374" vertical-offset="1649" max-vertical-offset="2142">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addabat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="161" selection-start="6776" selection-end="6776" vertical-scroll-proportion="-11.846154" vertical-offset="1613" max-vertical-offset="2448">
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#2;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#3;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#4;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addabataction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="49" selection-start="1718" selection-end="1718" vertical-scroll-proportion="-11.692307" vertical-offset="546" max-vertical-offset="1054">
+          <folding>
+            <marker date="1408378270753" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageballottine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="97" selection-start="3594" selection-end="3594" vertical-scroll-proportion="3.8461537" vertical-offset="1579" max-vertical-offset="2057">
+          <folding>
+            <marker date="1408379861921" expanded="true" signature="-1:-1" placeholder="SELECT Ballo..." />
+            <marker date="1408379861921" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408379861921" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408379861921" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408379861921" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408379861921" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addballottineaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1220" selection-end="1223" vertical-scroll-proportion="-13.653846" vertical-offset="359" max-vertical-offset="850">
+          <folding>
+            <marker date="1408379638755" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addballottine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="168" selection-start="3277" selection-end="3277" vertical-scroll-proportion="-45.115383" vertical-offset="0" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delballottine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="34" selection-start="189" selection-end="189" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="663">
+          <folding>
+            <marker date="1408380182612" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editballottine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="168" selection-start="4248" selection-end="4248" vertical-scroll-proportion="0.65384614" vertical-offset="1632" max-vertical-offset="2159">
+          <folding>
+            <marker date="1408380182587" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$tbl_name WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addcapitalization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="172" selection-start="3694" selection-end="3694" vertical-scroll-proportion="-3.2692308" vertical-offset="1088" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addcapitalizationaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="74" selection-start="1341" selection-end="1341" vertical-scroll-proportion="-10.230769" vertical-offset="312" max-vertical-offset="782">
+          <folding>
+            <marker date="1408381066723" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delcapitalization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="76" selection-start="1001" selection-end="1001" vertical-scroll-proportion="-10.884615" vertical-offset="193" max-vertical-offset="663">
+          <folding>
+            <marker date="1408381066613" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editballottineaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+          <folding>
+            <marker date="1408124949190" expanded="true" signature="-1:-1" placeholder="UPDATE $tbl_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editcapitalization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="172" selection-start="4677" selection-end="4677" vertical-scroll-proportion="0.65384614" vertical-offset="1717" max-vertical-offset="2244">
+          <folding>
+            <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#2;n#table#0;n#form#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1408381378532" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$tbl_name WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editcapitalizationaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="75" selection-start="1395" selection-end="1395" vertical-scroll-proportion="-10.384615" vertical-offset="325" max-vertical-offset="782">
+          <folding>
+            <marker date="1408381378498" expanded="true" signature="-1:-1" placeholder="UPDATE $tbl_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/managecapitalization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="9" selection-start="4653" selection-end="4653" vertical-scroll-proportion="-16.26923" vertical-offset="1396" max-vertical-offset="2006">
+          <folding>
+            <marker date="1408381593125" expanded="true" signature="-1:-1" placeholder="SELECT Capit..." />
+            <marker date="1408381593125" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408381593125" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408381593125" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408381593125" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408381593125" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1408381593125" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testmysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adddéforestation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="30" selection-start="664" selection-end="676" vertical-scroll-proportion="21.76923" vertical-offset="1008" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adddéforestationaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1233" selection-end="1233" vertical-scroll-proportion="-13.730769" vertical-offset="306" max-vertical-offset="833">
+          <folding>
+            <marker date="1408387503619" expanded="true" signature="757:912" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deldéforestation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="37" selection-start="769" selection-end="781" vertical-scroll-proportion="-10.230769" vertical-offset="193" max-vertical-offset="663">
+          <folding>
+            <marker date="1408387503755" expanded="true" signature="531:578" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editdéforestation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="112" selection-start="3457" selection-end="3469" vertical-scroll-proportion="-55.5" vertical-offset="19" max-vertical-offset="2159">
+          <folding>
+            <marker date="1408387503670" expanded="true" signature="631:680" placeholder="SELECT * FRO..$tbl_name WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editdéforestationaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="24" selection-start="210" selection-end="210" vertical-scroll-proportion="-3.5384614" vertical-offset="44" max-vertical-offset="748">
+          <folding>
+            <marker date="1408388206263" expanded="true" signature="698:862" placeholder="UPDATE $tbl_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/managedéforestation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="100" selection-start="3646" selection-end="3646" vertical-scroll-proportion="4.0" vertical-offset="1583" max-vertical-offset="2040">
+          <folding>
+            <marker date="1408387890347" expanded="true" signature="692:767" placeholder="SELECT Défor..." />
+            <marker date="1408387890347" expanded="false" signature="2720:2731" placeholder="..." />
+            <marker date="1408387890347" expanded="false" signature="2828:2839" placeholder="..." />
+            <marker date="1408387890347" expanded="false" signature="2941:2952" placeholder="..." />
+            <marker date="1408387890347" expanded="false" signature="3473:3484" placeholder="..." />
+            <marker date="1408387890347" expanded="false" signature="3607:3618" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1085" selection-end="1085" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="28" selection-start="2567" selection-end="2567" vertical-scroll-proportion="-12.346154" vertical-offset="1158" max-vertical-offset="1615">
+          <folding>
+            <marker date="1408388401362" expanded="true" signature="1033:1233" placeholder="SELECT Abat,..abat..." />
+            <marker date="1408388401362" expanded="true" signature="1790:1895" placeholder="SELECT Ballo..ballottine..." />
+            <marker date="1408388401362" expanded="true" signature="2156:2302" placeholder="SELECT Capit..capitalization..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/managefantastic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="12" selection-start="0" selection-end="5431" vertical-scroll-proportion="-6.8076925" vertical-offset="214" max-vertical-offset="2278">
+          <folding>
+            <marker date="1408223874074" expanded="true" signature="763:939" placeholder="SELECT Fanta..." />
+            <marker date="1408223874074" expanded="false" signature="2870:2881" placeholder="..." />
+            <marker date="1408223874074" expanded="false" signature="2974:2985" placeholder="..." />
+            <marker date="1408223874074" expanded="false" signature="3083:3094" placeholder="..." />
+            <marker date="1408223874074" expanded="false" signature="3192:3203" placeholder="..." />
+            <marker date="1408223874074" expanded="false" signature="3301:3312" placeholder="..." />
+            <marker date="1408223874074" expanded="false" signature="3410:3421" placeholder="..." />
+            <marker date="1408223874074" expanded="false" signature="3519:3530" placeholder="..." />
+            <marker date="1408223874074" expanded="false" signature="3628:3639" placeholder="..." />
+            <marker date="1408223874074" expanded="false" signature="3737:3748" placeholder="..." />
+            <marker date="1408223874074" expanded="false" signature="3846:3857" placeholder="..." />
+            <marker date="1408223874074" expanded="false" signature="4370:4381" placeholder="..." />
+            <marker date="1408223874074" expanded="false" signature="4504:4515" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageabat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="0" selection-end="5688" vertical-scroll-proportion="0.36761487" vertical-offset="87" max-vertical-offset="2227">
+          <folding>
+            <marker date="1408378624902" expanded="true" signature="687:861" placeholder="SELECT Abat,..." />
+            <marker date="1408378624902" expanded="false" signature="2768:2779" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="2867:2878" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="2971:2982" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="3075:3086" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="3179:3190" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="3283:3294" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="3387:3398" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="3491:3502" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="3595:3606" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="3699:3710" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="3803:3814" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="3908:3919" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="4013:4024" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="4118:4129" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="4633:4644" placeholder="..." />
+            <marker date="1408378624902" expanded="false" signature="4767:4778" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
